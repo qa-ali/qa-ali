@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-<img src="https://img.shields.io/badge/QA%20Automation%20Engineer-ff6e96?style=for-the-badge" /> <img src="https://img.shields.io/badge/5%2B%20Years%20Experience-282a36?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/QA%20Automation%20Engineer-ff6e96?style=for-the-badge" /> <img src="https://img.shields.io/badge/6%2B%20Years%20Experience-282a36?style=for-the-badge&logo=github" />
 
 - 🌱 Currently learning **Robot Process Automation**
 - 💬 Ask me about anything related to **Testing**
