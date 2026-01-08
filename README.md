@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Robot Process Automation**
 - 💬 Ask me about anything related to **Testing**
-- 🥅 **2024 Goals:** Contribute more to Open Source projects
+- 🥅 **2026 Goals:** Contribute more to Open Source projects
 - ⚡ **Fun fact:** I like to learn about new technologies
 - 📧 **Email me:** [qa.aliahmad05@gmail.com][Gmail]
 
@@ -18,8 +18,7 @@
 ## 📬 Connect With Me
 
 <a href="mailto:qa.aliahmad05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/ali-ahmad-qa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/qa-ali"><img src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://wa.me/923494150080"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" /></a>
 
 ---
 
