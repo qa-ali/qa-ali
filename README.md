@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h2 style="margin: 0;">Hi there 👋 I'm <span style="color:#00e6e6">Ali Ahmad</span></h2>
-  <img src="https://komarev.com/ghpvc/?username=aliaurangzaib05&color=yellow&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=qa-ali&color=yellow&style=for-the-badge&abbreviated=true" alt="Profile views" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -58,12 +58,13 @@
   <p style="color: #f8f8f2; font-size: 16px; margin-bottom: 20px;">A quick look at my open source journey and favorite languages!</p>
   <div style="display: flex; gap: 40px;">
     <div style="box-shadow: 0 4px 24px rgba(0,0,0,0.15); border-radius: 12px; overflow: hidden; background: #23272e; padding: 12px;">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=qa-ali&show_icons=true&theme=dracula" />
+      <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qa-ali&show_icons=true&theme=dracula" />
     </div>
     <div style="box-shadow: 0 4px 24px rgba(0,0,0,0.15); border-radius: 12px; overflow: hidden; background: #23272e; padding: 12px;">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=qa-ali&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
+      <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=qa-ali&layout=compact&langs_count=8&card_width=320&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" />
     </div>
   </div>
+
 </details>
 
 ---
