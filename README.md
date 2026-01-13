@@ -91,6 +91,7 @@
 - 🎮 Gaming is my favorite way to relax
 - ☕ Coffee fuels my coding sessions
 - ✈️ I enjoy traveling and learning about new cultures
+- 🏋️ I enjoy working out
 
 ---
 
