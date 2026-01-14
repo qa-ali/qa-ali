@@ -89,8 +89,6 @@
 - 🏔️ I love hiking and exploring nature
 - 💻 I love to know about new technologies
 - 🎮 Gaming is my favorite way to relax
-- ☕ Coffee fuels my coding sessions
-- ✈️ I enjoy traveling and learning about new cultures
 - 🏋️ I enjoy working out
 
 ---
